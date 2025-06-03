@@ -4,9 +4,8 @@ This repository contains beginner-friendly Python notebooks for fintech/data rol
 
 ## 📁 What's Included
 
-- `hello_basics.ipynb`: Your first program — variables, input, and output.
+- `portfolio_tracker.ipynb`: First program — This project calculates real-time gains/losses from a fictional stock portfolio
 - `compound_interest_calculator.ipynb`: A simple finance calculator that uses loops and math operations.
-- `pl_tracker.ipynb`: Track profit and loss with reusable logic via functions.
 - `return_simulation.ipynb`: Simulate investment growth using random daily returns.
 
 ## 🛠 Tools Used
